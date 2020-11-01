@@ -1,8 +1,7 @@
 # tpch_sf1_data_description
 contains description about tpch_data present in tpc benchmark and in snowflake sample database.
 
-> [TPCH DATABASE](http://tpc.org/tpch/default5.asp)
-
+> [TPCH DATABASE](http://tpc.org/tpch/default5.asp) link to download dataset.
 
 customer acctbal - the balance that customer owes to the store
 supplier acctbal - the balance that supplier owes to the company
